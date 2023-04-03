@@ -8,8 +8,8 @@
 <br>
 <div style="display: inline_block"><br>
   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviSobrinho&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSobrinho&layout=compact)](https://github.com/DaviSobrinho/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviSobrinho&theme=synthwave&show_icons=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSobrinho&theme=synthwave&layout=compact)](https://github.com/DaviSobrinho/github-readme-stats)
 
 </div>
 
