@@ -4,6 +4,7 @@
 - 🌱 I’m currently learning Kotlin, C#(Unity) and Java.
 - 📫 How to reach me: https://www.linkedin.com/in/davi-sobrinho-labre-b37500235/ or davisobrinho82452@gmail.com
 - 💻 I'm a developer that already builded some Android apps in Kotlin/Java, also have a few projects in other languages like Python, C or C# that actually i'm using in game projects in Unity.
+- 📄 You can find my curriculum here: https://davisobrinho.github.io/online-cv/
 
 <br>
 <div style="display: inline_block"><br>
