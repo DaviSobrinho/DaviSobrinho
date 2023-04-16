@@ -1,9 +1,9 @@
 # Hi there!! I am Davi Sobrinho Labre👋
 
-- 😄 I'm a 21, brazilian analysis and systems development student at Universidade Católica de Brasília, also student at Alura, who's looking for more knowledge.
-- 🌱 I’m currently learning Kotlin, C#(Unity) and Java.
+- 😄 I'm a 22, brazilian analysis and systems development student at Universidade Católica de Brasília, also student at Alura, who's looking for more knowledge.
+- 🌱 I’m currently learning Java.
 - 📫 How to reach me: https://www.linkedin.com/in/davi-sobrinho-labre-b37500235/ or davisobrinho82452@gmail.com
-- 💻 I'm a developer that already builded some Android apps in Kotlin/Java, also have a few projects in other languages like Python, C or C# that actually i'm using in game projects in Unity.
+- 💻 I'm a developer that already builded some apps in Java/Kotlin, also have a few projects in other languages like Python, Javascript, C or C# that actually i'm using in game projects in Unity.
 - 📄 You can find my curriculum here: https://davisobrinho.github.io/online-cv/
 
 <br>
