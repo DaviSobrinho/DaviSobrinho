@@ -1,10 +1,9 @@
 # Hi there!! I am Davi Sobrinho Labre👋
 
 - 😄 I'm a 22, brazilian analysis and systems development student at Universidade Católica de Brasília, also student at Alura, who's looking for more knowledge.
-- 💼 For now I'm working as an IT trainee at Cebraspe.
-- 🌱 I’m currently learning Java.
+- 🌱 I’m currently learning Kotlin.
 - 📫 How to reach me: https://www.linkedin.com/in/davi-sobrinho-labre-b37500235/ or davisobrinho82452@gmail.com
-- 💻 I'm a developer that already builded some apps in Java/Kotlin and JS, also have a few projects in other languages like Python, C, C#(Unity3d) and VBA for enterprise automations.
+- 💻 I'm a developer that already builded some apps in Kotlin/Java and JS, also have a few minor projects in other languages like C and C#(Unity3d), some apps with Power Platform and VBA automations for enterprise automations.
 - 📄 You can find my curriculum here: https://davisobrinho.github.io/online-cv/
 
 <br>
@@ -22,7 +21,6 @@
   <img align="center" alt="HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg">
   <img align="center" alt="CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain.svg">
   <img align="center" alt="Node.JS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-plain.svg">
-  <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="C#" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-plain.svg">
 
