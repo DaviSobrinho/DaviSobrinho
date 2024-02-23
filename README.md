@@ -1,7 +1,7 @@
 # Hi there!! I am Davi Sobrinho Labre👋
 
 - 😄 I'm a 22y, brazilian Kotlin Developer, graduated in analysis and systems development at Universidade Católica de Brasília, also student at Alura.
-- 🌱 I’m currently learning Kotlin.
+- 🌱 I’m currently Jetpack Compose.
 - 📫 How to reach me: https://www.linkedin.com/in/davi-sobrinho-labre-b37500235/ or davisobrinho82452@gmail.com
 - 💻 I've already builded some apps in Kotlin/Java and JS sites, also have a few minor projects in other languages like C and C#(Unity3d), some apps with Power Platform and VBA automations for enterprise automations.
 - 📄 You can find my curriculum here: https://davisobrinho.github.io/online-cv/
