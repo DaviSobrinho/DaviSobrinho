@@ -1,6 +1,6 @@
 # Hi there!! I am Davi Sobrinho Labre👋
 
-- 😄 I'm a 22y, brazilian Back-end and Mobile Developer, postgraduate student in Web and Mobile development at Senac-SP, graduated in analysis and systems development at Universidade Católica de Brasília, also student at Alura.
+- 😄 I'm a 22y, brazilian Back-end and Mobile Developer, graduate student in Web and Mobile development at Senac-SP, degree in analysis and systems development at Universidade Católica de Brasília, also student at Alura.
 - 🌱 I’m currently learning NestJS.
 - 📫 How to reach me: https://www.linkedin.com/in/davi-sobrinho-labre-b37500235/ or davisobrinho82452@gmail.com
 - 💻 I've already builded some API's with NestJS and Java, mobile apps in Kotlin, JS sites, also have a few minor projects in other languages like C and C#(Unity3d games), some apps with Power Platform and VBA automations for enterprise automations.
