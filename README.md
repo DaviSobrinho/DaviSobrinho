@@ -19,7 +19,7 @@
 
 <div style="display: inline_block"><br>
   <img align="center" alt="React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
-  <img align="center" alt="NextJS" height="60" width="60" src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg">
+  <img align="center" alt="NextJS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Vite" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg">
   <img align="center" alt="NestJS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg">
   <img align="center" alt="TypeScript" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-plain.svg">
