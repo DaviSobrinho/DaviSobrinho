@@ -11,13 +11,6 @@
 ---
 
 <div style="display: inline_block"><br>
-  
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DaviSobrinho&theme=dracula&show_icons=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DaviSobrinho&theme=dracula&layout=compact)](https://github.com/DaviSobrinho/github-readme-stats)
-
-</div>
-
-<div style="display: inline_block"><br>
   <img align="center" alt="React" height="60" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="NextJS" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg">
   <img align="center" alt="Vite" height="60" width="60" src="https://github.com/devicons/devicon/blob/master/icons/vitejs/vitejs-original.svg">
